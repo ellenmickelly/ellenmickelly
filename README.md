@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm a Machine Learning Engineer & RPA Professional 👋
+# Hello, I'm a Data Scientist & RPA Professional 👋
 
 *Bridging intelligent automation, advanced machine learning, and emerging quantum-enhanced AI.*
 
@@ -21,19 +21,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-| Category | Technologies & Focus |
-| :--- | :--- |
-| **Languages & Core** | Python, Jupyter Notebooks |
-| **Machine Learning & AI** | PyTorch, TensorFlow, NLP |
-| **Quantum Computing** | Quantum Machine Learning (QML), Penny Lane, Qiskit
-| **Automation** | Robotic Process Automation (RPA) Development, UiPath, Microsoft Power Automate
-| **Cloud Platforms** | Microsoft Azure AI |
-
----
-
 ### 🌐 Connect With Me
 
-* **GitHub:** [@ellenmickelly](https://github.com/ellenmickelly)
 * **LinkedIn:** [Ellen Mickelly](https://linkedin.com/in/ellenmickelly)
